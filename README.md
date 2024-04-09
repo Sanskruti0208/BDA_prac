@@ -1,1 +1,1 @@
-# BDA_prac
+# Big-Data-Analytics_Practicals
